@@ -14,7 +14,7 @@ export function EmptyScreen() {
         <p className="leading-normal text-muted-foreground">
           Say hi to Xalunai Xalunics AI chatbot it's there to assist you with your daily tasks. Made mainly by {' '}
           <ExternalLink href="https://youtube.com/@DevBailey">Xalunic</ExternalLink>, and was sponsored by{' '}
-          <ExternalLink href="https://kukiku.org"></ExternalLink>
+          <ExternalLink href="https://kukiku.org">Kukiku.org</ExternalLink>
         </p>
       </div>
     </div>
