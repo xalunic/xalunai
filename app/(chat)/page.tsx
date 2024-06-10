@@ -6,7 +6,7 @@ import { Session } from '@/lib/types'
 import { getMissingKeys } from '@/app/actions'
 
 export const metadata = {
-  title: 'Xalunai'
+  title: 'Xalunai Chat'
 }
 
 export default async function IndexPage() {
